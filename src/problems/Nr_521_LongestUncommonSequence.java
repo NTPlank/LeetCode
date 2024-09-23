@@ -1,4 +1,4 @@
-package Problems;
+package problems;
 
 public class Nr_521_LongestUncommonSequence {
     public int findLUSlength(String a, String b) {

@@ -1,4 +1,4 @@
-package Problems;
+package problems;
 
 public class Nr_001_TwoSum {
 

@@ -1,4 +1,4 @@
-package Problems;
+package problems;
 
 public class Nr_009_PalindromeNumber {
     public boolean isPalindrome(int x) {
