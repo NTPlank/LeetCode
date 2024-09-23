@@ -3,7 +3,7 @@ package problems;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Nr_169_MajorityElement {
+public class Nr_00169_MajorityElement {
     public int majorityElement(int[] nums) {
         Map<Integer, Integer> numberAndCount = new HashMap<>();
 

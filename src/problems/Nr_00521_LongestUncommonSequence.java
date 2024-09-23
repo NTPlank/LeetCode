@@ -1,6 +1,6 @@
 package problems;
 
-public class Nr_521_LongestUncommonSequence {
+public class Nr_00521_LongestUncommonSequence {
     public int findLUSlength(String a, String b) {
         if (a.equals(b)) {
             return -1;

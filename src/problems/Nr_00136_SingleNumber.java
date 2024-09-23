@@ -3,7 +3,7 @@ package problems;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Nr_136_SingleNumber {
+public class Nr_00136_SingleNumber {
     public int singleNumber(int[] nums) {
         Map<Integer, Integer> numberAndCount = new HashMap<>();
 

@@ -2,7 +2,7 @@ package problems;
 
 import java.util.List;
 
-public class Nr_824_GoatLatin {
+public class Nr_00824_GoatLatin {
     public String toGoatLatin(String sentence) {
         String[] words = sentence.split(" ");
         String goatSentence = "";

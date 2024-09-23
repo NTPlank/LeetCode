@@ -1,6 +1,6 @@
 package problems;
 
-public class Nr_009_PalindromeNumber {
+public class Nr_00009_PalindromeNumber {
     public boolean isPalindrome(int x) {
         String normal = String.valueOf(x);
         String reverse = new StringBuilder(normal).reverse().toString();

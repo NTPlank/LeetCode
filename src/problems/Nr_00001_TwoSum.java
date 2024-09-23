@@ -1,6 +1,6 @@
 package problems;
 
-public class Nr_001_TwoSum {
+public class Nr_00001_TwoSum {
 
     public int[] twoSum(int[] nums, int target) {
         int iterations = nums.length;
